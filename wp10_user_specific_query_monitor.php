@@ -16,9 +16,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Class User_Specific_Query_Monitor
+ * Class WP10_User_Specific_QM_Control
  */
-class User_Specific_QM_Control {
+class WP10_User_Specific_QM_Control {
 
 	/**
 	 * Cookie名
@@ -160,4 +160,4 @@ class User_Specific_QM_Control {
 	}
 }
 
-new User_Specific_QM_Control();
+new WP10_User_Specific_QM_Control();
