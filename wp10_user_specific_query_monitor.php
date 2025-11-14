@@ -25,7 +25,7 @@ class WP10_User_Specific_QM_Control {
 	 *
 	 * @var string
 	 */
-	private const COOKIE_NAME = 'enable_qm_for_you';
+	private const COOKIE_NAME = 'wp10usqc_enable_qm_for_you';
 
 	/**
 	 * コンストラクタ
